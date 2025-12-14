@@ -6,7 +6,7 @@
   },
   "exported_at": "2025-12-14T00:00:00+00:00",
   "name": "WebHost PHP 8.3 (Git via Entrypoint)",
-  "author": "BernyCampos",
+  "author": "cberny214@gmail.com",
   "description": "Web hosting PHP 8.3 + Nginx. El repositorio Git se clona/actualiza EXCLUSIVAMENTE desde entrypoint.sh (compatible Pelican).",
   "tags": [],
   "features": null,
